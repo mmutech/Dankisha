@@ -1,0 +1,38 @@
+ /* Customize progress bar using a custom class */
+.custom-toast {
+    background-color: #fff; /* Orange color */
+    height: 6px; /* Adjust height */
+}
+
+/* Customize success notification */
+.toast-success {
+    background-color: #4caf50;
+    color: #ffffff;
+}
+
+/* Customize warning notification */
+.toast-warning {
+    background-color: #ff9800;
+    color: #ffffff;
+}
+
+/* Customize error notification */
+.toast-danger {
+    background-color: #f44336;
+    color: #ffffff;
+}
+
+/* Customize info notification */
+.toast-info {
+    background-color: #3682f4;
+    color: #ffffff;
+}
+
+/* Customize title and message */
+.toast-title {
+    font-weight: bold;
+}
+
+.toast-message {
+    font-size: 14px;
+}
